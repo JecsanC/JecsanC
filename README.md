@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jecsan Cárdenas</h1>
 
 <h3 align="center">
-Web Developer
+Full Stack Developer
 </h3>
 
 <p align="center">
@@ -16,10 +16,10 @@ Building SaaS products with Node.js, Next.js, PostgreSQL and Docker
 
 ## 🚀 About Me
 
-- 🔭 Currently building **Ordika**, a SaaS platform for small businesses
-- 🌱 Learning software architecture and scalable backend systems
-- 💻 Interested in Backend & Full Stack opportunities
-- ⚙️ Experienced with REST APIs, PostgreSQL, Prisma ORM and Docker
+- 🔭 Currently developing Ordika, a SaaS platform for small businesses
+- 💻 Full Stack Developer with experience building web applications using Next.js and Node.js
+- ⚙️ Experience developing REST APIs, authentication systems and PostgreSQL databases
+- 🐳 Familiar with Docker, Linux and deployment environments
 - 🎓 Computer Systems Engineering Graduate (in titling process)
 - 🇲🇽 Based in Colima, Mexico
 
