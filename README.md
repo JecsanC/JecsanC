@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jecsan Cárdenas</h1>
 
 <h3 align="center">
-Full Stack Developer focused on Backend Development
+Web Developer
 </h3>
 
 <p align="center">
@@ -41,8 +41,10 @@ Building SaaS products with Node.js, Next.js, PostgreSQL and Docker
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+
+### ORM
+![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
@@ -65,20 +67,6 @@ Features:
 - Sales tracking
 - Customer management
 - Business analytics dashboard
-
----
-
-### 🏘️ Habitly
-Community management platform.
-
-**Tech Stack:** Node.js, Express, PostgreSQL, Prisma, JWT
-
-Features:
-- JWT Authentication
-- Role-based access control
-- Incident reporting
-- Community voting
-- Reservation management
 
 ---
 
